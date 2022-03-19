@@ -1,0 +1,12 @@
+{
+    "projectName": "REST API Teste",
+    "body": {
+        "description": "Create my first rest api"
+    },
+    "fieldList": [
+        {
+            "description": "test return array"
+        }
+    ],
+    "author": "Jhonathan Queiroz"
+}

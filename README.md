@@ -1,0 +1,49 @@
+<div align="center" id="top"> 
+  <img src="./.github/app.gif" alt="Rest Api" />
+
+  &#xa0;
+
+  <!-- <a href="https://restapi.netlify.com">Demo</a> -->
+</div>
+
+<h1 align="center">Rest Api</h1>
+
+
+## :dart: Sobre ##
+
+Minha primeira API REST.
+
+## :rocket: Tecnologias ##
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/pt-br/)
+
+## :white_check_mark: Pré requisitos ##
+
+Antes de começar, você precisa ter o [Node](https://nodejs.org/en/) instalado em sua maquina e configurado.
+
+## :checkered_flag: Começando ##
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/jhonathanqz/rest-api
+
+# Entre na pasta
+$ cd rest-api
+
+# Instale as dependências
+$ npm install
+
+# Para iniciar o projeto
+$ node server.js
+
+# O app vai inicializar em <http://localhost:3000>
+```
+
+Feito por <a href="https://github.com/jhonathanqz" target="_blank">Jhonathan Queiroz</a>
+
+&#xa0;
+
+<a href="#top">Voltar para o topo</a>
