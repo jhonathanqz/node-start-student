@@ -28,18 +28,18 @@ Antes de começar, você precisa ter o [Node](https://nodejs.org/en/) instalado 
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/jhonathanqz/rest-api
+$ git clone https://github.com/jhonathanqz/node-start-student
 
 # Entre na pasta
 $ cd rest-api
 
 # Instale as dependências
-$ npm install
+$ node-start-student
 
 # Para iniciar o projeto
-$ node server.js
+$ node src/index.js
 
-# O app vai inicializar em <http://localhost:3000>
+# O projeto vai inicializar em <http://localhost:3000>
 ```
 
 Feito por <a href="https://github.com/jhonathanqz" target="_blank">Jhonathan Queiroz</a>
